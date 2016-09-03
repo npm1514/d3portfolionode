@@ -1,0 +1,12 @@
+body {
+  background-image: url("http://cdn.shopify.com/s/files/1/0032/1212/products/ZOM219.jpg?v=1403671323");
+  background-position: top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+svg {
+  text-align: center;
+  margin:auto;
+}
